@@ -30,6 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
+  http: ^1.2.2
+  fluttertoast: ^8.2.8
+  gradient_circular_progress_indicator: ^0.0.4
+  shared_preferences: ^2.3.3
 
 
   # The following adds the Cupertino Icons font to your application.
